@@ -226,12 +226,14 @@
   color: white;
   padding-top: 60px;
   padding-bottom: 40px;
+  min-height: 350px;
 }
 .footer__columns {
   width: 90%;
   display: flex;
   justify-content: space-between;
   margin: auto;
+  min-height: 350px;
 }
 .footer__column_content_copyright {
   flex-basis: 712px;
