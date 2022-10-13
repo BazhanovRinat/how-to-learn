@@ -8,7 +8,7 @@
     /* выше для экранов больше 1600px отцентрировали весь контент */
     font-family: 'Helvetica Neue', Arial, sans-serif;
   }
-  li {
+  /*li {
     list-style-type: none;
   }
   a {
@@ -23,7 +23,7 @@
     margin: 0;
     padding: 0;
   }
-  /*div {
+  div {
     border: red solid 1px;
   }
   nav {

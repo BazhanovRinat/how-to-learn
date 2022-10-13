@@ -4,3 +4,6 @@
   font-size: 24px;
   font-weight: normal;
 }
+.two-columns__paragraph:first-child {
+  margin: 0;
+}
