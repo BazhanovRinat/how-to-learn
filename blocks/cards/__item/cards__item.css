@@ -3,12 +3,7 @@ margin-right : 100px;
 width: 240px;
 margin-top: 60px;
 }
-.cards__item:last-child {
-    margin-right: 0;
-}
+
 .cards__item:nth-child(3n) {
     margin-right: 0;
-}
-.cards__item:nth-child(-n+3) {
-    margin-top: 0;
 }
